@@ -155,7 +155,7 @@ def end_call_tool(reason="Call ended normally"):
     """
     return {
         "action": "end_call",
-        "message": "Thank you for calling Capital Women's Care Ashburn. Goodbye.",
+        "message": "Thank you for calling Women's Care. Goodbye.",
         "reason": reason,
         "status": "call_ended"
     }
