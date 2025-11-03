@@ -1,6 +1,6 @@
 # VoiceAI - OBGYN Clinic Voice Assistant
 
-An AI-powered voice assistant for Capital Women's Care Ashburn that handles patient inquiries, appointment scheduling, emergency triage, and call routing using Deepgram's speech-to-speech API with GPT-4o-mini.
+An AI-powered voice assistant for Women's Care Ashburn that handles patient inquiries, appointment scheduling, emergency triage, and call routing using Deepgram's speech-to-speech API with GPT-4o-mini.
 
 ## Features
 
